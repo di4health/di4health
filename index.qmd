@@ -1,6 +1,6 @@
 ---
 title: "Decision Intelligence 4 Health"
----
+--- 
 
 Maintained by [Tomás Aragón](https://substack.com/@tomasaragon)
 
