@@ -8,14 +8,12 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - href: https://di4health.github.io/book
-        text: Book 
-      - href: programming.qmd
-        text: Programming
+      - href: coding.qmd
+        text: Coding        
       - href: resources.qmd
         text: Resources
-      - href: team_skills.qmd
-        text: Team skills
+      - href: book.qmd
+        text: Book
 
 format:
   html:

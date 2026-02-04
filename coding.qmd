@@ -1,0 +1,25 @@
+---
+title: "Decision modeling coding examples"
+---
+
+## Decision Analysis (Chapter 2, Petitti 2000)
+Source: Overview of the Methods (Chapter 2) in Diana B. Petitti. Meta-Analysis, Decision Analysis, and Cost-Effectiveness Analysis: Methods for Quantitative Synthesis in Medicine. 2nd ed. Monographs in Epidemiology and Biostatistics, v. 31. Oxford University Press, 2000. https://doi.org/10.1093/acprof:oso/9780195133646.001.0001.
+
+For background, see: Tomás Aragón. "Bayes' Theorem and Decision Analysis for Mortals: Transforming Data into Information, Knowledge, and Wisdom - Part 3." TEAM Public Health, January 15, 2016. https://teampublichealth.substack.com/p/bayes-theorem-and-decision-analysis.
+
+- DA using a decision tree (`rdecision`): [R Jupyter Notebook (Part 1)](https://github.com/di4health/di4h/blob/main/nb/Petitti2000/NB_R_rdecision_part1.ipynb)  
+- DA using a decision tree (`rdecision`): [R Jupyter Notebook (Part 2)](https://github.com/di4health/di4h/blob/main/nb/Petitti2000/NB_R_rdecision_part2.ipynb)   
+- DA using influence diagrams (`DecisionProgramming.jl`): [Julia Jupyter Notebook](https://github.com/di4health/di4h/blob/main/nb/Petitti2000/NB_Julia_DecisionProgramming-jl.ipynb)
+- DA using agent-based modeling (`Agents.jl`): [Julia Jupyter Notebook](https://github.com/di4health/di4h/blob/main/nb/Petitti2000/NB_Julia_Agents-jl.ipynb)
+
+## Elementary decision tree (Evans 1997)
+We will replicate the decision analysis from this `rdecision` R package vignette: https://cran.r-project.org/web/packages/rdecision/vignettes/DT01-Sumatriptan.html 
+
+Source: Evans, K. W., J. A. Boan, J. L. Evans, and A. Shuaib. “Economic Evaluation of Oral Sumatriptan Compared with Oral Caffeine/Ergotamine for Migraine.” PharmacoEconomics 12, no. 5 (1997): 565–77. https://doi.org/10.2165/00019053-199712050-00007.
+
+- DA using a decision tree (`rdecision`): [R Jupyter Notebook](https://github.com/di4health/di4h/blob/main/nb/Evans1997/NB_R_rdecision.ipynb)  
+- Decision analysis using an influence diagram: Julia Jupyter Notebook - pending
+
+## A Primer on Bayesian Decision Analysis (Neapolitan 2016)
+Source: Neapolitan, Richard, Xia Jiang, Daniela P. Ladner, and Bruce Kaplan. “A Primer on Bayesian Decision Analysis With an Application to a Kidney Transplant Decision.” Transplantation 100, no. 3 (2016): 489–96. https://doi.org/10.1097/TP.0000000000001145.
+

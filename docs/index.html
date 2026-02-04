@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Decision Intelligence 4 Health – di4health.github.io</title>
+<title>Decision Intelligence 4 Health Modeling – di4health.github.io</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -95,20 +95,16 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="https://di4health.github.io/book"> 
-<span class="menu-text">Book</span></a>
-  </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="./programming.html"> 
-<span class="menu-text">Programming</span></a>
+    <a class="nav-link" href="./coding.html"> 
+<span class="menu-text">Coding</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="./resources.html"> 
 <span class="menu-text">Resources</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./team_skills.html"> 
-<span class="menu-text">Team skills</span></a>
+    <a class="nav-link" href="./book.html"> 
+<span class="menu-text">Book</span></a>
   </li>  
 </ul>
           </div> <!-- /navcollapse -->
@@ -126,13 +122,8 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#coding-examples-for-decision-analysis" id="toc-coding-examples-for-decision-analysis" class="nav-link active" data-scroll-target="#coding-examples-for-decision-analysis">Coding examples for decision analysis</a>
-  <ul class="collapse">
-  <li><a href="#decision-analysis---chapter-2-petitti-2000" id="toc-decision-analysis---chapter-2-petitti-2000" class="nav-link" data-scroll-target="#decision-analysis---chapter-2-petitti-2000">Decision Analysis - Chapter 2 (Petitti 2000)</a></li>
-  <li><a href="#elementary-decision-tree-evans-1997" id="toc-elementary-decision-tree-evans-1997" class="nav-link" data-scroll-target="#elementary-decision-tree-evans-1997">Elementary decision tree (Evans 1997)</a></li>
-  <li><a href="#a-primer-on-bayesian-decision-analysis-neapolitan-2016" id="toc-a-primer-on-bayesian-decision-analysis-neapolitan-2016" class="nav-link" data-scroll-target="#a-primer-on-bayesian-decision-analysis-neapolitan-2016">A Primer on Bayesian Decision Analysis (Neapolitan 2016)</a></li>
-  </ul></li>
-  <li><a href="#appendix" id="toc-appendix" class="nav-link" data-scroll-target="#appendix">Appendix</a></li>
+  <li><a href="#decision-modeling-coding-examples" id="toc-decision-modeling-coding-examples" class="nav-link active" data-scroll-target="#decision-modeling-coding-examples">Decision modeling coding examples</a></li>
+  <li><a href="#the-di4h-framework" id="toc-the-di4h-framework" class="nav-link" data-scroll-target="#the-di4h-framework">The DI4H framework</a></li>
   <li><a href="#footnotes" id="toc-footnotes" class="nav-link" data-scroll-target="#footnotes">Footnotes</a></li>
   </ul>
 </nav>
@@ -142,7 +133,7 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Decision Intelligence 4 Health</h1>
+<h1 class="title">Decision Intelligence 4 Health Modeling</h1>
 </div>
 
 
@@ -160,56 +151,81 @@ ul.task-list li input[type="checkbox"] {
 
 
 <p>Maintained by <a href="https://substack.com/@tomasaragon">Tomás Aragón</a></p>
-<p>Embedded in all journeys (life, learning, strategy, innovation, etc.) are the choices we make. Since medical school in the 1980s, when I was introduced to the nascent field “decision analysis,”<a href="#fn1" class="footnote-ref" id="fnref1" role="doc-noteref"><sup>1</sup></a> I came to appreciate that decision making is our most important daily activity. Annie Duke says it best:<a href="#fn2" class="footnote-ref" id="fnref2" role="doc-noteref"><sup>2</sup></a></p>
+<p>Embedded in all journeys (life, learning, strategy, innovation, etc.) are the choices we make. Since medical school when I was introduced to the nascent field of “decision analysis,”<a href="#fn1" class="footnote-ref" id="fnref1" role="doc-noteref"><sup>1</sup></a> I came to appreciate that decision making is our most important daily activity. Annie Duke says it best:<a href="#fn2" class="footnote-ref" id="fnref2" role="doc-noteref"><sup>2</sup></a></p>
 <blockquote class="blockquote">
 <p><em>“… there are only two things that determine how your life turns out: luck and the quality of your decisions. You have control over only one of those two things.”</em></p>
 <p>_“… your decision-making is the single most important thing you have control over that will help you achieve your goals.”</p>
 <p>Annie Duke, <em>How to Decide: Simple Tools for Making Better Choices</em>. Penguin Publishing Group, 2020.</p>
 </blockquote>
-<p>In spite of its importance, decision quality is rarely formally taught. This is a shame! Some of reasons include the complex, trans-disciplinary nature of descriptive and normative decision theories.</p>
-<p>To learn more visit: TEAM Public Health - https://teampublichealth.substack.com/t/decisive - https://teampublichealth.substack.com/p/decision-intelligence</p>
-<p>Decision professionals tackle and manage two dimensions of decision competence: organizational complexity and analytical complexity (Figure 1). On this page we focus on <strong>decision analysis</strong> using popular data science programming languages such as Julia, Python, and R.</p>
-<figure class="figure">
-<img src="https://github.com/tomasaragon/di4h/blob/main/img/di_decision_competence_complexity.png" width="680" alt="Decision Intelligence 4 Health framework" class="figure-img">
-<figcaption>
-Figure 1: Two dimension of decision competence (Source: Parnell, Gregory S, Terry A. Bresnick, Eric Specking, Steven N. Tani, and Eric R. Johnson. Handbook of Decision Analysis. 2nd ed.&nbsp;Wiley, 2025. )
+<p>In spite of its importance, decision quality is rarely taught formally. This is a shame! Some of reasons include the organizational and analytical complexity decision making. <a href="#fig-competence-complexity" class="quarto-xref">Figure&nbsp;1</a> depicts how decision professionals tackle and manage these two dimensions. On this site we focus on <strong>decision modeling</strong> (analytical complexity) using popular data science programming languages such as Julia, Python, and R.</p>
+<div id="fig-competence-complexity" class="quarto-float quarto-figure quarto-figure-center anchored">
+<figure class="quarto-float quarto-float-fig figure">
+<div aria-describedby="fig-competence-complexity-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<img src="./img/di_decision_competence_complexity.png" class="img-fluid figure-img" width="600">
+</div>
+<figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-competence-complexity-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Figure&nbsp;1: Two dimension of decision competence (Source: Parnell, Gregory S, Terry A. Bresnick, Eric Specking, Steven N. Tani, and Eric R. Johnson. Handbook of Decision Analysis. 2nd ed.&nbsp;Wiley, 2025.
 </figcaption>
 </figure>
-<section id="coding-examples-for-decision-analysis" class="level2">
-<h2 class="anchored" data-anchor-id="coding-examples-for-decision-analysis">Coding examples for decision analysis</h2>
-<section id="decision-analysis---chapter-2-petitti-2000" class="level3">
-<h3 class="anchored" data-anchor-id="decision-analysis---chapter-2-petitti-2000">Decision Analysis - Chapter 2 (Petitti 2000)</h3>
-<p>Source: Overview of the Methods (Chapter 2) in Diana B. Petitti. Meta-Analysis, Decision Analysis, and Cost-Effectiveness Analysis: Methods for Quantitative Synthesis in Medicine. 2nd ed.&nbsp;Monographs in Epidemiology and Biostatistics, v. 31. Oxford University Press, 2000. https://doi.org/10.1093/acprof:oso/9780195133646.001.0001.</p>
-<p>For background, see: Tomás Aragón. “Bayes’ Theorem and Decision Analysis for Mortals: Transforming Data into Information, Knowledge, and Wisdom - Part 3.” TEAM Public Health, January 15, 2016. https://teampublichealth.substack.com/p/bayes-theorem-and-decision-analysis.</p>
+</div>
+<section id="decision-modeling-coding-examples" class="level2">
+<h2 class="anchored" data-anchor-id="decision-modeling-coding-examples">Decision modeling coding examples</h2>
+<p>See <a href="./coding.html">Decision analysis coding examples</a></p>
+</section>
+<section id="the-di4h-framework" class="level2">
+<h2 class="anchored" data-anchor-id="the-di4h-framework">The DI4H framework</h2>
+<p><a href="#fig-di4h" class="quarto-xref">Figure&nbsp;2</a> depicts the Decision Intelligence 4 Health framework with four pillars:</p>
+<ol type="1">
+<li>4 dimensions,</li>
+<li>4 competency domains,</li>
+<li>4 constraints, and</li>
+<li>4 DEEP decision challenges.</li>
+</ol>
+<p>In health and human services, we face 4 <strong>DEEP</strong> decision challenges:</p>
+<ol type="1">
+<li><strong>D</strong>ecision making under uncertainty (<strong>information</strong>, data, knowledge, future)</li>
+<li><strong>E</strong>thical decision making (<strong>values</strong>, moral trade-offs, benefits outweigh risks)</li>
+<li><strong>E</strong>mergency and crisis decision making (<strong>time</strong> constraints with high stakes)</li>
+<li><strong>P</strong>riority setting and resource allocation (<strong>resource</strong> investment trade-offs)</li>
+</ol>
+<div id="fig-di4h" class="quarto-float quarto-figure quarto-figure-center anchored">
+<figure class="quarto-float quarto-float-fig figure">
+<div aria-describedby="fig-di4h-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<img src="./img/di4health_dq_light.png" class="img-fluid figure-img" width="800">
+</div>
+<figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-di4h-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Figure&nbsp;2: Decision Intelligence 4 Health
+</figcaption>
+</figure>
+</div>
+<p>The 4 DEEP decision challenges bring attention for 4 key constraints:</p>
+<ol type="1">
+<li>Information,</li>
+<li>Values,</li>
+<li>Time, and</li>
+<li>Resources.</li>
+</ol>
+<p>In practice, these contraints can, and do, occur simultaneously for and of the DEEP decisions.</p>
+<p>Important decisions have 4 dimensions for consideration:</p>
+<ol type="1">
+<li>Decision quality,</li>
+<li>Strategic execution,</li>
+<li>Continuous improvement, and</li>
+<li>Ethics, science, and technology.</li>
+</ol>
+<p>In public health, strategic decisions do not occur in isolation; they always occur within strategic execution frameworks (eg, incident command system, lean hoshin kanri, Results-Based Accountability). To ensure decision quality, we must deploy continuous improvement, ethics, science, and technology (eg, artificial intelligence)</p>
+<p>Finally, the <a href="https://alliancefordecisioneducation.org/">Alliance for Decision Eduction</a> has developed 4 evidence-based competency domains:</p>
+<ol type="1">
+<li>Recognizing and resisting cognitive biases,</li>
+<li>Valuing and applying rationality,</li>
+<li>Thinking probabilistically, and</li>
+<li>Structuring decisions.</li>
+</ol>
+<p>Currently, this site focuses on decision modeling. To learn more about general aspects of Decision Intelligence 4 Health visit <strong>TEAM Public Health</strong>:</p>
 <ul>
-<li>DA using a decision tree (<code>rdecision</code>): <a href="https://github.com/tomasaragon/di4h/blob/main/nb/Petitti2000/NB_R_rdecision_part1.ipynb">R Jupyter Notebook (Part 1)</a><br>
-</li>
-<li>DA using a decision tree (<code>rdecision</code>): <a href="https://github.com/tomasaragon/di4h/blob/main/nb/Petitti2000/NB_R_rdecision_part2.ipynb">R Jupyter Notebook (Part 2)</a><br>
-</li>
-<li>DA using influence diagrams (<code>DecisionProgramming.jl</code>): <a href="https://github.com/tomasaragon/di4h/blob/main/nb/Petitti2000/NB_Julia_DecisionProgramming-jl.ipynb">Julia Jupyter Notebook</a></li>
-<li>DA using agent-based modeling (<code>Agents.jl</code>): <a href="https://github.com/tomasaragon/di4h/blob/main/nb/Petitti2000/NB_Julia_Agents-jl.ipynb">Julia Jupyter Notebook</a></li>
+<li>https://teampublichealth.substack.com/p/decision-intelligence</li>
+<li>https://teampublichealth.substack.com/t/decisive</li>
 </ul>
-</section>
-<section id="elementary-decision-tree-evans-1997" class="level3">
-<h3 class="anchored" data-anchor-id="elementary-decision-tree-evans-1997">Elementary decision tree (Evans 1997)</h3>
-<p>We will replicate the decision analysis from this <code>rdecision</code> R package vignette: https://cran.r-project.org/web/packages/rdecision/vignettes/DT01-Sumatriptan.html</p>
-<p>Source: Evans, K. W., J. A. Boan, J. L. Evans, and A. Shuaib. “Economic Evaluation of Oral Sumatriptan Compared with Oral Caffeine/Ergotamine for Migraine.” PharmacoEconomics 12, no. 5 (1997): 565–77. https://doi.org/10.2165/00019053-199712050-00007.</p>
-<ul>
-<li>DA using a decision tree (<code>rdecision</code>): <a href="https://github.com/tomasaragon/di4h/blob/main/nb/Evans1997/NB_R_rdecision.ipynb">R Jupyter Notebook</a><br>
-</li>
-<li>Decision analysis using an influence diagram: Julia Jupyter Notebook - pending</li>
-</ul>
-</section>
-<section id="a-primer-on-bayesian-decision-analysis-neapolitan-2016" class="level3">
-<h3 class="anchored" data-anchor-id="a-primer-on-bayesian-decision-analysis-neapolitan-2016">A Primer on Bayesian Decision Analysis (Neapolitan 2016)</h3>
-<p>Source: Neapolitan, Richard, Xia Jiang, Daniela P. Ladner, and Bruce Kaplan. “A Primer on Bayesian Decision Analysis With an Application to a Kidney Transplant Decision.” Transplantation 100, no. 3 (2016): 489–96. https://doi.org/10.1097/TP.0000000000001145.</p>
-</section>
-</section>
-<section id="appendix" class="level2">
-<h2 class="anchored" data-anchor-id="appendix">Appendix</h2>
-<p>Artificial intelligence will make important contributions to public health decision making, but humans will always need to be “in the loop” as decision architects. In health and human services, we face 4 <strong>DEEP</strong> decision challenges: 1. <strong>D</strong>ecision making under uncertainty (<strong>information</strong>, data, knowledge, future) 2. <strong>E</strong>thical decision making (<strong>values</strong>, moral trade-offs, benefits outweigh risks) 3. <strong>E</strong>mergency and crisis decision making (<strong>time</strong> constraints with high stakes) 4. <strong>P</strong>riority setting and resource allocation (<strong>resource</strong> investment trade-offs)</p>
-<p>Figure depicts the Decision Intelligence 4 Health framework, tools, and decision quality elements.</p>
-<p><img src="https://github.com/tomasaragon/di4h/blob/main/img/img_di4health_dq.png" width="100%" alt="Decision Intelligence 4 Health framework"></p>
 </section>
 <section id="footnotes" class="level2">
 <h2 class="anchored" data-anchor-id="footnotes">Footnotes</h2>

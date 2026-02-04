@@ -1,5 +1,7 @@
 ---
-title: "About"
+title: "Book"
 ---
 
-About this site
+## Decision Intelligence 4 Health (book project)
+
+Under construction
