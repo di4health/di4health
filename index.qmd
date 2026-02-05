@@ -2,9 +2,9 @@
 title: "Decision Intelligence 4 Health (di4h) Modeling"
 --- 
 
-[Tomás Aragón](https://substack.com/@tomasaragon). 
+[Tomás Aragón](https://substack.com/@tomasaragon)<br>
+[TEAM Public Health](https://teampublichealth.substack.com/)<br>
 UC Berkeley Public Health. 
-[TEAM Public Health](https://teampublichealth.substack.com/)
 
 Embedded in all journeys (life, learning, strategy, innovation, etc.) are the choices we make. Since medical school, when I was introduced to the nascent field of "decision analysis,"[^Weinstein] I came to appreciate that decision making is our most important daily activity. Annie Duke says it best:[^Duke]
 

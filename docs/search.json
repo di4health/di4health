@@ -39,7 +39,7 @@
     "href": "index.html",
     "title": "Decision Intelligence 4 Health (di4h) Modeling",
     "section": "",
-    "text": "Tomás Aragón. UC Berkeley Public Health. TEAM Public Health\nEmbedded in all journeys (life, learning, strategy, innovation, etc.) are the choices we make. Since medical school, when I was introduced to the nascent field of “decision analysis,”1 I came to appreciate that decision making is our most important daily activity. Annie Duke says it best:2\nIn spite of its importance, decision quality is rarely taught formally. This is a shame! Some of reasons include the organizational and analytical complexity of decision making. Figure 1 depicts how decision professionals tackle and manage these two dimensions. On this site we focus on decision analysis or modeling (analytical complexity) using popular data science programming languages such as Julia, Python, and R."
+    "text": "Tomás Aragón TEAM Public Health UC Berkeley Public Health.\nEmbedded in all journeys (life, learning, strategy, innovation, etc.) are the choices we make. Since medical school, when I was introduced to the nascent field of “decision analysis,”1 I came to appreciate that decision making is our most important daily activity. Annie Duke says it best:2\nIn spite of its importance, decision quality is rarely taught formally. This is a shame! Some of reasons include the organizational and analytical complexity of decision making. Figure 1 depicts how decision professionals tackle and manage these two dimensions. On this site we focus on decision analysis or modeling (analytical complexity) using popular data science programming languages such as Julia, Python, and R."
   },
   {
     "objectID": "index.html#decision-modeling-coding-examples",
