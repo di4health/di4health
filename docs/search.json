@@ -95,7 +95,7 @@
     "href": "coding.html#elementary-decision-tree-evans-1997",
     "title": "Decision modeling examples",
     "section": "Elementary decision tree (Evans 1997)",
-    "text": "Elementary decision tree (Evans 1997)\nWe will replicate the decision analysis from this rdecision R package vignette: https://cran.r-project.org/web/packages/rdecision/vignettes/DT01-Sumatriptan.html\nSource: Evans, K. W., J. A. Boan, J. L. Evans, and A. Shuaib. “Economic Evaluation of Oral Sumatriptan Compared with Oral Caffeine/Ergotamine for Migraine.” PharmacoEconomics 12, no. 5 (1997): 565–77. https://doi.org/10.2165/00019053-199712050-00007.\n\nDA using a decision tree (rdecision): R Jupyter Notebook\n\nDecision analysis using an influence diagram: Julia Jupyter Notebook - pending"
+    "text": "Elementary decision tree (Evans 1997)\nWe will replicate the decision analysis from this rdecision R package vignette: https://cran.r-project.org/web/packages/rdecision/vignettes/DT01-Sumatriptan.html\nSource: Evans, K. W., J. A. Boan, J. L. Evans, and A. Shuaib. “Economic Evaluation of Oral Sumatriptan Compared with Oral Caffeine/Ergotamine for Migraine.” PharmacoEconomics 12, no. 5 (1997): 565–77. https://doi.org/10.2165/00019053-199712050-00007.\n\nDA using a decision tree (rdecision): R Jupyter Notebook\n\nDecision analysis using an influence diagram: Julia Jupyter Notebook - PENDINF"
   },
   {
     "objectID": "coding.html#a-primer-on-bayesian-decision-analysis-neapolitan-2016",
