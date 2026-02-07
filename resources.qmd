@@ -28,6 +28,8 @@ title: "Resources"
 1. Duke, Annie. How to Decide: Simple Tools for Making Better Choices. Penguin Publishing Group, 2020. <https://www.annieduke.com/books/>.
 2. Sox, Harold C., Michael C. Higgins, Douglas K. Owens, and Gillian Sanders Schmidler. Medical Decision Making. Third edition. John Wiley & Sons, Inc, 2024. <https://doi.org/10.1002/9781119627876>.
 3. Hunink, M. G. Myriam. Decision Making in Health and Medicine. 2nd ed. With Milton C. Weinstein, Eve Wittenberg, Michael F. Drummond, Joseph S. Pliskin, John B. Wong, and Paul Glasziou. Cambridge University Press, 2014. <https://doi.org/10.1017/CBO9781139506779>.
-4. Briggs, Andrew Harvey, Karl Claxton, and Mark Sculpher. Decision Modelling for Health Economic Evaluation. Repr. [d. korr. Ausg. von 2007]. Handbooks in Health Economic Evaluation Series. Oxford Univ. Press, 2011.
-5. Parnell, Gregory S, Terry A. Bresnick, Eric Specking, Steven N. Tani, and Eric R. Johnson. Handbook of Decision Analysis. 2nd ed. Wiley, 2025.
+4. Parnell, Gregory S, Terry A. Bresnick, Eric Specking, Steven N. Tani, and Eric R. Johnson. Handbook of Decision Analysis. 2nd ed. Wiley, 2025.
+5. Arroyo, Paz, Annett Schöttle, and Randi Christensen. Building Decisions: How Choosing by Advantages Drives Project Success. Routledge, 2025. <https://doi.org/10.1201/9781003518310>.
+6. Alastair Gray and Andrew Briggs, editors. Handbooks in Health Economic Evaluation. Oxford University Press. <https://www.herc.ox.ac.uk/downloads/handbooks-in-health-economic-evaluation> 
+
 
