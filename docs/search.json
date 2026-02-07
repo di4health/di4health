@@ -4,14 +4,14 @@
     "href": "resources.html",
     "title": "Resources",
     "section": "",
-    "text": "The following open source software packages are used for health economic decision modeling (aka, decision analysis) leveraging different frameworks: decision trees, Baynesian networks (eg, influence diagrams), mixed-integer linear programming (ie, optimization), and agent-based modeling.\n\nR: rdecision: uses decision trees\nPython: pyAgrum: uses influence diagrams\nJulia: DecisionProgramming.jl: uses influence diagrams\nJulia: Agents.jl: uses agent-based modeling"
+    "text": "The following open source software packages are used for decision modeling and leverage different approaches: decision trees, Baynesian networks (eg, influence diagrams), mixed-integer linear programming (MILP) (ie, optimization), and agent-based modeling.\n\nR: rdecision: uses decision trees\nPython: pyAgrum: uses influence diagrams\nJulia: DecisionProgramming.jl: uses influence diagrams and MILP\nJulia: Agents.jl: uses agent-based modeling"
   },
   {
     "objectID": "resources.html#software-packages",
     "href": "resources.html#software-packages",
     "title": "Resources",
     "section": "",
-    "text": "The following open source software packages are used for health economic decision modeling (aka, decision analysis) leveraging different frameworks: decision trees, Baynesian networks (eg, influence diagrams), mixed-integer linear programming (ie, optimization), and agent-based modeling.\n\nR: rdecision: uses decision trees\nPython: pyAgrum: uses influence diagrams\nJulia: DecisionProgramming.jl: uses influence diagrams\nJulia: Agents.jl: uses agent-based modeling"
+    "text": "The following open source software packages are used for decision modeling and leverage different approaches: decision trees, Baynesian networks (eg, influence diagrams), mixed-integer linear programming (MILP) (ie, optimization), and agent-based modeling.\n\nR: rdecision: uses decision trees\nPython: pyAgrum: uses influence diagrams\nJulia: DecisionProgramming.jl: uses influence diagrams and MILP\nJulia: Agents.jl: uses agent-based modeling"
   },
   {
     "objectID": "resources.html#primer-on-medical-decision-analysis-5-part-series",
@@ -116,7 +116,7 @@
     "href": "coding.html",
     "title": "Decision modeling examples",
     "section": "",
-    "text": "The purpose of this site is to develop a repository of decision modeling coding examples to support analysts who are learning how to code to solve decision problems. A secondary purpose is to have a repository for training artificial intelligence to assist us in tackling more complex decision problems.\nFor decision modeling will be focusing on the following methods:\nWe will be using Julia, Python, and R.\nWe are early in our journey and invite critical feedback, input, and suggestions."
+    "text": "The purpose of this site is to develop a repository of health economic decision modeling (aka, decision analysis) coding examples to support analysts who are learning how to code to solve practical decision problems. A secondary purpose is to have a repository for training artificial intelligence to assist us in tackling more complex decision problems.\nFor decision modeling will be focusing on the following approaches:\nThe following open source software packages are used for decision modeling and leverage different approaches: decision trees, Baynesian networks (eg, influence diagrams), mixed-integer linear programming (MILP) (ie, optimization), and agent-based modeling.\nWe are early in our journey and invite critical feedback, input, and suggestions."
   },
   {
     "objectID": "coding.html#decision-analysis-chapter-2-petitti-2000",
