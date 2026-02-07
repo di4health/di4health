@@ -2,7 +2,7 @@
 title: "Decision Intelligence 4 Health (di4h)"
 --- 
 
-Embedded in all journeys (life, learning, strategy, innovation, etc.) are the choices we make. Since medical school, when I was introduced to the nascent field of "decision analysis,"[^Weinstein] I came to appreciate that decision making is our most important daily activity. Annie Duke says it best:[^Duke]
+Embedded in all journeys (life, learning, strategy, innovation, etc.) are the choices we make. Decision making is our most important daily activity. Annie Duke says it best:[^Duke1] [^Duke2] [^Duke3]
 
 > *"... there are only two things that determine how your life turns out: luck and the quality of your decisions. You have control over only one of those two things."*
 >
@@ -67,6 +67,9 @@ Currently, this site focuses on decision modeling. To learn more about the gener
 - <https://teampublichealth.substack.com/t/decisive>
 
 
-[^Weinstein]: Weinstein, Milton C., and Harvey V. Fineberg. _Clinical Decision Analysis_. Saunders, 1980.
-[^Duke]: Duke, Annie. _How to Decide: Simple Tools for Making Better Choices_. Penguin Publishing Group, 2020. https://www.annieduke.com/books/.
+[^Duke1]: Duke, Annie. *How to Decide: Simple Tools for Making Better Choices*. Penguin Publishing Group, 2020. https://www.annieduke.com/books/.
+
+[^Duke2]: Duke, Annie. *Quit: The Power of Knowing When to Walk Away*. Ebury Edge, 2023. https://www.annieduke.com/books/.
+
+[^Duke3]: Duke, Annie. *Thinking in Bets: Making smarter decisions when you don't have all the facts*. Portfolio/ Penguin, 2020. https://www.annieduke.com/books/.
 

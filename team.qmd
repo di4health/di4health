@@ -2,15 +2,23 @@
 title: "Team"
 ---
 
-Decision Intelligence 4 Health is a project to improve the real-time decision making of public health agencies, and other health and human services organizations. 
+Decision Intelligence 4 Health is a collaborative project to improve the real-time decision making of public health agencies, and other health and human services organizations. 
 
 ## Lead
 
 - [Tomás Aragón](https://substack.com/@tomasaragon), [TEAM Public Health](https://teampublichealth.substack.com/) and UC Berkeley Public Health. 
 
-## Contributors
+## Collaborators / Contributors (in alphabetical order)
 
-- T
+- Lisa Bandong, Office of Planning & Planning, CDPH[^CDPH]
+- Gilda Zarate-Gonzalez, Decision Intelligence Section, CDPH
+- Hector Manuel Sanchez Castellanos, Decision Intelligence Section, CDPH
+- Lauren White, Decision Intelligence Section, CDPH
+- Natalie Linton, Decision Intelligence Section, CDPH
+- Phoebe Lu, Decision Intelligence Section, CDPH 
+- Tomás León, Decision Intelligence Section, CDPH
 
 ## Acknowledgments 
+
+[^CDPH]: California Department of Public Health
 
