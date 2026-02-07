@@ -2,10 +2,6 @@
 title: "Decision Intelligence 4 Health (di4h)"
 --- 
 
-[Tomás Aragón](https://substack.com/@tomasaragon)<br>
-[TEAM Public Health](https://teampublichealth.substack.com/)<br>
-UC Berkeley Public Health. 
-
 Embedded in all journeys (life, learning, strategy, innovation, etc.) are the choices we make. Since medical school, when I was introduced to the nascent field of "decision analysis,"[^Weinstein] I came to appreciate that decision making is our most important daily activity. Annie Duke says it best:[^Duke]
 
 > *"... there are only two things that determine how your life turns out: luck and the quality of your decisions. You have control over only one of those two things."*
@@ -56,7 +52,7 @@ Important decisions have 4 dimensions for consideration:
 3. Continuous improvement, and
 4. Ethics, science, and technology.
 
-In public health, strategic decisions do not occur in isolation; they always occur within strategic execution frameworks (eg, incident command system, lean hoshin kanri, Results-Based Accountability). To ensure decision quality, we must deploy continuous improvement, ethics, science, and technology (eg, artificial intelligence)
+In public health, strategic decisions do not occur in isolation; they always occur within strategic execution frameworks (eg, incident command system, lean management, PDSA/A3 problem solving, needs-driven innovation, Results-Based Accountability). To ensure decision quality, we must deploy continuous improvement, ethics, science, and technology (eg, artificial intelligence)
 
 Finally, the [Alliance for Decision Eduction](https://alliancefordecisioneducation.org/) has developed 4 evidence-based competency domains:
 

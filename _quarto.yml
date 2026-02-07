@@ -12,9 +12,13 @@ website:
         text: Coding        
       - href: resources.qmd
         text: Resources
+      - href: team.qmd
+        text: Team        
       - href: book.qmd
         text: Book
-
+    right:
+      - href: https://github.com/di4health
+        icon: github
 format:
   html:
     theme:
