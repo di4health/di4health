@@ -95,14 +95,14 @@
     "href": "team.html#collaborators-contributors-in-alphabetical-order",
     "title": "Team",
     "section": "Collaborators / Contributors (in alphabetical order)",
-    "text": "Collaborators / Contributors (in alphabetical order)\n\nLisa Bandong, Office of Planning & Planning, CDPH1\nGilda Zarate-Gonzalez, Decision Intelligence Section, CDPH\nHector Manuel Sanchez Castellanos, Decision Intelligence Section, CDPH\nLauren White, Decision Intelligence Section, CDPH\nNatalie Linton, Decision Intelligence Section, CDPH\nPhoebe Lu, Decision Intelligence Section, CDPH\nTomás León, Decision Intelligence Section, CDPH"
+    "text": "Collaborators / Contributors (in alphabetical order)\n\nGilda Zarate-Gonzalez, Decision Intelligence Section, CDPH1\nHector Manuel Sanchez Castellanos, Decision Intelligence Section, CDPH\nLauren White, Decision Intelligence Section, CDPH\nLisa Bandong, Office of Planning & Planning, CDPH\nNatalie Linton, Decision Intelligence Section, CDPH\nPhoebe Lu, Decision Intelligence Section, CDPH\nTomás León, Decision Intelligence Section, CDPH"
   },
   {
     "objectID": "team.html#acknowledgments",
     "href": "team.html#acknowledgments",
     "title": "Team",
     "section": "Acknowledgments",
-    "text": "Acknowledgments"
+    "text": "Acknowledgments\n\npending"
   },
   {
     "objectID": "team.html#footnotes",
@@ -130,7 +130,7 @@
     "href": "coding.html#elementary-decision-tree-evans-1997",
     "title": "Decision modeling examples",
     "section": "Elementary decision tree (Evans 1997)",
-    "text": "Elementary decision tree (Evans 1997)\nWe will replicate the decision analysis from this rdecision R package vignette: https://cran.r-project.org/web/packages/rdecision/vignettes/DT01-Sumatriptan.html\nSource: Evans, K. W., J. A. Boan, J. L. Evans, and A. Shuaib. “Economic Evaluation of Oral Sumatriptan Compared with Oral Caffeine/Ergotamine for Migraine.” PharmacoEconomics 12, no. 5 (1997): 565–77. https://doi.org/10.2165/00019053-199712050-00007.\n\nDA using a decision tree (rdecision): R Jupyter Notebook\n\nDecision analysis using an influence diagram: Julia Jupyter Notebook - PENDINF"
+    "text": "Elementary decision tree (Evans 1997)\nWe will replicate the decision analysis from this rdecision R package vignette: https://cran.r-project.org/web/packages/rdecision/vignettes/DT01-Sumatriptan.html\nSource: Evans, K. W., J. A. Boan, J. L. Evans, and A. Shuaib. “Economic Evaluation of Oral Sumatriptan Compared with Oral Caffeine/Ergotamine for Migraine.” PharmacoEconomics 12, no. 5 (1997): 565–77. https://doi.org/10.2165/00019053-199712050-00007.\n\nDA using a decision tree (rdecision): R Jupyter Notebook\n\nDA using an influence diagram (DecisionProgramming.jl): Julia Jupyter Notebook"
   },
   {
     "objectID": "coding.html#a-primer-on-bayesian-decision-analysis-neapolitan-2016",

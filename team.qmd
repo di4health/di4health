@@ -10,15 +10,17 @@ Decision Intelligence 4 Health is a collaborative project to improve the real-ti
 
 ## Collaborators / Contributors (in alphabetical order)
 
-- Lisa Bandong, Office of Planning & Planning, CDPH[^CDPH]
-- Gilda Zarate-Gonzalez, Decision Intelligence Section, CDPH
+- Gilda Zarate-Gonzalez, Decision Intelligence Section, CDPH[^CDPH]
 - Hector Manuel Sanchez Castellanos, Decision Intelligence Section, CDPH
 - Lauren White, Decision Intelligence Section, CDPH
+- Lisa Bandong, Office of Planning & Planning, CDPH
 - Natalie Linton, Decision Intelligence Section, CDPH
 - Phoebe Lu, Decision Intelligence Section, CDPH 
 - Tomás León, Decision Intelligence Section, CDPH
 
 ## Acknowledgments 
+
+- pending
 
 [^CDPH]: California Department of Public Health
 
