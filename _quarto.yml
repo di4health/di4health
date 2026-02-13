@@ -22,7 +22,7 @@ website:
 format:
   html:
     theme:
-      - superhero
+      - zephyr
       - brand
     css: styles.css
     toc: true
