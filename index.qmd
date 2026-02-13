@@ -1,5 +1,5 @@
 ---
-title: "Decision Intelligence 4 Health (di4h)"
+title: "Decision Intelligence 4 Health (di4health)"
 --- 
 ## A project of [TEAM Public Health](https://teampublichealth.substack.com/) 
 
@@ -19,7 +19,7 @@ In spite of its importance, decision quality is rarely taught formally. This is 
 
 See [Decision modeling coding examples](coding.qmd)
 
-## The di4h framework
+## The di4health framework
 
 @fig-di4h depicts the Decision Intelligence 4 Health framework with four pillars:
 
