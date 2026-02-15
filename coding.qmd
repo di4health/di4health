@@ -48,7 +48,7 @@ We will replicate the decision analysis from this `rdecision` R package vignette
 Source: Evans, K. W., J. A. Boan, J. L. Evans, and A. Shuaib. “Economic Evaluation of Oral Sumatriptan Compared with Oral Caffeine/Ergotamine for Migraine.” PharmacoEconomics 12, no. 5 (1997): 565–77. <https://doi.org/10.2165/00019053-199712050-00007>.
 
 - DA using a decision tree (`rdecision`): [R Jupyter Notebook](https://github.com/di4health/di4h/blob/main/nb/Evans1997/NB_R_rdecision_Evans1997.ipynb)  
-- DA using influence diagram (`DecisionProgramming.jl`): [Julia Jupyter Notebook](https://github.com/di4health/di4h/blob/main/nb/Evans1997/NB_Julia_DecisionProgramming_Evans1997_V5.ipynb)
+- DA using influence diagram (`DecisionProgramming.jl`): [Julia Jupyter Notebook](https://github.com/di4health/di4h/blob/main/nb/Evans1997/NB_Julia_DecisionProgramming_Evans1997_V6.ipynb)
 - DA using influence diagram (`pyAgrum`): [Python Jupyter Notebook](https://github.com/di4health/di4h/blob/main/nb/Evans1997/NB_Python_pyAgrum_Evans1997_V2.ipynb)
 - DA using agent-based modeling (`Agents.jl`): [Julia Jupyter Notebook](https://github.com/di4health/di4h/blob/main/nb/Evans1997/NB_Julia_AgentsJL_Evans1997_V3_claude2.ipynb)
 - DA using agent-based modeling (`mesa`): [Python Jupyter Notebook](https://github.com/di4health/di4h/blob/main/nb/Evans1997/NB_Python_Mesa3_Evans1997_V1.ipynb)
