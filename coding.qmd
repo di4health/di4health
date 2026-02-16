@@ -23,12 +23,12 @@ Do you want to contribute a Jupyter notebook? Contact [Tomás Aragón](http://su
 
 ### Special announcements
 
-#### Open Source library of published health economic models
-The library is a curated list of [open-source health economic models](https://www.notion.so/Open-Source-Model-Library-2e828f8fdfc08017a9fbc021b4ef6ba1) identified through a systematic review conducted by Henderson et al. (2025).[^pmid39952464] The purpose of this resource is to make these models easily accessible for decision makers and modeling.
+#### TutorialBuilding a decision tree model in R
+From Mirko von Hein, learn how to build a healthcare decision tree model in R from scratch to calculate ICERs, run one-way sensitivity analyses, and create tornado diagrams for cost-effectiveness analysis.
 
-To learn more watch this [YouTube video](https://www.youtube.com/watch?v=_cGkw7ab7IA) by Mirko von Hein. 
+{{< video https://www.youtube.com/watch?v=8fvr0NaUKE8 >}}
 
-[^pmid39952464]: Henderson, Raymond H., Chris Sampson, Xavier G. L. V. Pouwels, et al. “Mapping the Landscape of Open Source Health Economic Models: A Systematic Database Review and Analysis: An ISPOR Special Interest Group Report.” Value in Health: The Journal of the International Society for Pharmacoeconomics and Outcomes Research 28, no. 6 (2025): 813–20. <https://doi.org/10.1016/j.jval.2025.01.019>.
+Here is the [R code](https://github.com/MvonHein/Decision-Tree-Model-in-R/blob/main/decision_tree_tut_R.R) for this YouTube tutorial (Feb 15, 2026).
 
 ## Decision models
 
@@ -57,3 +57,11 @@ Source: Evans, K. W., J. A. Boan, J. L. Evans, and A. Shuaib. “Economic Evalua
 ## A Primer on Bayesian Decision Analysis (Neapolitan 2016) -- PENDING
 Source: Neapolitan, Richard, Xia Jiang, Daniela P. Ladner, and Bruce Kaplan. “A Primer on Bayesian Decision Analysis With an Application to a Kidney Transplant Decision.” Transplantation 100, no. 3 (2016): 489–96. <https://doi.org/10.1097/TP.0000000000001145>.
 
+## Appendix
+
+### Open Source library of published health economic models
+The library is a curated list of [open-source health economic models](https://www.notion.so/Open-Source-Model-Library-2e828f8fdfc08017a9fbc021b4ef6ba1) identified through a systematic review conducted by Henderson et al. (2025).[^pmid39952464] The purpose of this resource is to make these models easily accessible for decision makers and modeling.
+
+To learn more watch this [YouTube video](https://www.youtube.com/watch?v=_cGkw7ab7IA) by Mirko von Hein. 
+
+[^pmid39952464]: Henderson, Raymond H., Chris Sampson, Xavier G. L. V. Pouwels, et al. “Mapping the Landscape of Open Source Health Economic Models: A Systematic Database Review and Analysis: An ISPOR Special Interest Group Report.” Value in Health: The Journal of the International Society for Pharmacoeconomics and Outcomes Research 28, no. 6 (2025): 813–20. <https://doi.org/10.1016/j.jval.2025.01.019>.

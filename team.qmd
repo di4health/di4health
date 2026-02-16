@@ -18,9 +18,14 @@ Decision Intelligence 4 Health is a collaborative project to improve the real-ti
 - Phoebe Lu, Decision Intelligence Section, CDPH 
 - Tomás León, Decision Intelligence Section, CDPH
 
-## Acknowledgments 
+## Acknowledgments (in alphabetical order) 
 
-- pending
+- [Annie Duke, author, speaker, and consultant](https://www.annieduke.com/) 
+- [Doug Owens, Stanford University](https://med.stanford.edu/profiles/douglas-owens)[^OwensBook] 
+- [Joshua Solomon, Stanford University](https://healthpolicy.fsi.stanford.edu/people/joshua-salomon)  
+
 
 [^CDPH]: California Department of Public Health
+
+[^OwensBook]:  Sox, Harold C., Michael C. Higgins, Douglas K. Owens, and Gillian Sanders Schmidler. *Medical Decision Making*. 3rd ed. John Wiley & Sons, Inc, 2024. https://doi.org/10.1002/9781119627876.
 

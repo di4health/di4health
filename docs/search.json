@@ -105,18 +105,18 @@
     "text": "Collaborators / Contributors (in alphabetical order)\n\nGilda Zarate-Gonzalez, Decision Intelligence Section, CDPH1\nHector Manuel Sanchez Castellanos, Decision Intelligence Section, CDPH\nLauren White, Decision Intelligence Section, CDPH\nLisa Bandong, Office of Planning & Planning, CDPH\nNatalie Linton, Decision Intelligence Section, CDPH\nPhoebe Lu, Decision Intelligence Section, CDPH\nTomás León, Decision Intelligence Section, CDPH"
   },
   {
-    "objectID": "team.html#acknowledgments",
-    "href": "team.html#acknowledgments",
+    "objectID": "team.html#acknowledgments-in-alphabetical-order",
+    "href": "team.html#acknowledgments-in-alphabetical-order",
     "title": "Team",
-    "section": "Acknowledgments",
-    "text": "Acknowledgments\n\npending"
+    "section": "Acknowledgments (in alphabetical order)",
+    "text": "Acknowledgments (in alphabetical order)\n\nAnnie Duke, author, speaker, and consultant\nDoug Owens, Stanford University2\nJoshua Solomon, Stanford University"
   },
   {
     "objectID": "team.html#footnotes",
     "href": "team.html#footnotes",
     "title": "Team",
     "section": "Footnotes",
-    "text": "Footnotes\n\n\nCalifornia Department of Public Health↩︎"
+    "text": "Footnotes\n\n\nCalifornia Department of Public Health↩︎\nSox, Harold C., Michael C. Higgins, Douglas K. Owens, and Gillian Sanders Schmidler. Medical Decision Making. 3rd ed. John Wiley & Sons, Inc, 2024. https://doi.org/10.1002/9781119627876.↩︎"
   },
   {
     "objectID": "coding.html",
@@ -138,6 +138,13 @@
     "title": "Decision modeling – Jupyter notebooks",
     "section": "A Primer on Bayesian Decision Analysis (Neapolitan 2016) – PENDING",
     "text": "A Primer on Bayesian Decision Analysis (Neapolitan 2016) – PENDING\nSource: Neapolitan, Richard, Xia Jiang, Daniela P. Ladner, and Bruce Kaplan. “A Primer on Bayesian Decision Analysis With an Application to a Kidney Transplant Decision.” Transplantation 100, no. 3 (2016): 489–96. https://doi.org/10.1097/TP.0000000000001145."
+  },
+  {
+    "objectID": "coding.html#appendix",
+    "href": "coding.html#appendix",
+    "title": "Decision modeling – Jupyter notebooks",
+    "section": "Appendix",
+    "text": "Appendix\n\nOpen Source library of published health economic models\nThe library is a curated list of open-source health economic models identified through a systematic review conducted by Henderson et al. (2025).1 The purpose of this resource is to make these models easily accessible for decision makers and modeling.\nTo learn more watch this YouTube video by Mirko von Hein."
   },
   {
     "objectID": "coding.html#footnotes",
