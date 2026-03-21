@@ -1,7 +1,7 @@
 ---
 title: "Decision Intelligence 4 Health (di4health)"
 --- 
-## A project of [TEAM Public Health](https://teampublichealth.substack.com/) 
+## A project of [TEAM Public Health](https://teampublichealth.substack.com/p/decision-intelligence) 
 
 [Tomás Aragón](https://substack.com/@tomasaragon)   
 
@@ -27,17 +27,17 @@ The di4health framework is a holistic, practiced-based framework for team decisi
 
 @fig-di4h depicts the Decision Intelligence 4 Health framework with four pillars:
 
-1. 4 dimensions (real work practice), 
+1. 4 dimensions (real world practice), 
 2. 4 competency domains,
 3. 4 constraints, and
 4. 4 DEEP decision challenges.
 
 In health and human services, we face 4 **DEEP** decision challenges:
 
-  1. **D**ecision making under uncertainty (**information**, data, knowledge, future)
-  2. **E**thical decision making (**values**, moral trade-offs, benefits outweigh risks)
-  3. **E**mergency and crisis decision making (**time** constraints with high stakes)
-  4. **P**riority setting and resource allocation (**resource** investment trade-offs)
+  1. **D** --- Decision making under uncertainty (**information**, data, knowledge, future)
+  2. **E** --- Ethical decision making (**values**, moral trade-offs, benefits outweigh risks)
+  3. **E** --- Emergency and crisis decision making (**time** constraints with high stakes)
+  4. **P** --- Priority setting and resource allocation (**resource** investment trade-offs)
 
 ![Decision Intelligence 4 Health](./img/di4health_dq_light.png){width=800 #fig-di4h}
 
@@ -53,7 +53,7 @@ In practice, these contraints can, and do, occur simultaneously for the DEEP dec
 Important decisions have 4 dimensions for consideration:
 
 1. Decision quality,
-2. Strategic execution,
+2. Strategy execution,
 3. Continuous improvement, and
 4. Ethics, science, and technology.
 
