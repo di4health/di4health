@@ -26,11 +26,11 @@ The di4health framework is a holistic, practiced-based framework for team decisi
 1. 4 dimensions (real world practice), 
 2. 4 competency domains,
 3. 4 constraints, and
-4. 4 DEEP decision challenges.
+4. 4 StEEP decision challenges.
 
 In health and human services, we face 4 **DEEP** decision challenges:
 
-  1. **D** --- Decision making under uncertainty (**information**, data, knowledge, future)
+  1. **St** --- Strategic Decision making under uncertainty and competition (**information**, game theory)
   2. **E** --- Ethical decision making (**values**, moral trade-offs, benefits outweigh risks)
   3. **E** --- Emergency and crisis decision making (**time** constraints with high stakes)
   4. **P** --- Priority setting and resource allocation (**resource** investment trade-offs)
