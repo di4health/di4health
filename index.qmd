@@ -30,7 +30,7 @@ The di4health framework is a holistic, practiced-based framework for team decisi
 
 In health and human services, we face 4 **DEEP** decision challenges:
 
-  1. **St** --- Strategic Decision making under uncertainty and competition (**information**, game theory)
+  1. **St** --- Strategic decision-making under uncertainty and competition (**information**, game theory)
   2. **E** --- Ethical decision making (**values**, moral trade-offs, benefits outweigh risks)
   3. **E** --- Emergency and crisis decision making (**time** constraints with high stakes)
   4. **P** --- Priority setting and resource allocation (**resource** investment trade-offs)
