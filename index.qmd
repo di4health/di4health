@@ -15,7 +15,27 @@ Embedded in all journeys (life, learning, strategy, innovation, etc.) are the ch
 
 In spite of its importance, decision quality is rarely taught formally. This is a shame! Some of reasons include the organizational and analytical complexity of decision making. @fig-competence-complexity depicts how decision professionals tackle and manage these two dimensions. To address analytical complexity, this site focuses on **decision modeling** (aka, decision analysis) using popular data science programming languages such as Julia, Python, and R.
 
-![Two dimensions of decision competence (Source: Parnell, Gregory S, Terry A. Bresnick, Eric Specking, Steven N. Tani, and Eric R. Johnson. Handbook of Decision Analysis. 2nd ed. Wiley, 2025.](./img/di_decision_competence_complexity.png){width=600 #fig-competence-complexity}
+![The three dimensions of decision competence: Context complexity, Analytical complexity, and Content complexity. (Source: Parnell, Gregory S, Terry A. Bresnick, Eric Specking, Steven N. Tani, and Eric R. Johnson. Handbook of Decision Analysis. 2nd ed. Wiley, 2025.](./img/di_decision_competence_complexity.png){width=600 #fig-competence-complexity}
+
+The three dimensions of decision competence are Context complexity, Analytical complexity, and Content complexity (Figure @fig-competence-complexity). Content complexity covers subject matter expertise and experience. This dimension is foundational and often sufficient for many decisions. This explains why many SMEs are never trained in the decision sciences---being an expert can get you very far. However, to improve our decision making we develop our skills in the other two dimensions. 
+
+Context complexity includes: 
+  - Individual and group differences in:
+    - Values, desires, and motivation
+    - Initial convictions
+    - Fundamentally different frames
+    - Personalities and competencies
+    - Degrees of power and resource availability
+  - Group dynamics---human nature in groups
+  - Many parties in conflict 
+
+Analytical complexity: 
+  - Uncertainty
+  - Dynamics; Options
+  - Multiple competing objectives
+  - Many possible alternatives
+  - Many possible consequences (outcomes)
+  - Multiple actors in competition (game theory)
 
 ## The di4health framework
 
