@@ -19,7 +19,7 @@ In spite of its importance, decision quality is rarely taught formally. This is 
 
 The three dimensions of decision competence are Context complexity, Analytical complexity, and Content complexity (Figure @fig-competence-complexity). Content complexity covers subject matter expertise and experience. This dimension is foundational and often sufficient for many decisions. This explains why many SMEs are never trained in the decision sciences---being an expert can get you very far. However, to improve our decision making we develop our skills in the other two dimensions. 
 
-Context complexity includes:  
+Context complexity includes:   
 
   - Individual and group differences in:
     - Values, desires, and motivation
